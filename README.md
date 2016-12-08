@@ -1,6 +1,6 @@
 Pattern-Composite
 ===================================  
-![github](http://github.com/unicorn.png "github") 
+![github](https://github.com/cheng668/image/blob/master/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.png) 
 一.意图：
 -----------------------------------  
 
